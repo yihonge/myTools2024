@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.文件ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.编辑ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -216,7 +216,7 @@
             // button4
             // 
             this.button4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.button4.Location = new System.Drawing.Point(750, 607);
+            this.button4.Location = new System.Drawing.Point(521, 569);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(114, 35);
             this.button4.TabIndex = 4;
@@ -227,7 +227,7 @@
             // button3
             // 
             this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.button3.Location = new System.Drawing.Point(607, 607);
+            this.button3.Location = new System.Drawing.Point(379, 569);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(114, 35);
             this.button3.TabIndex = 3;
@@ -237,7 +237,7 @@
             // button2
             // 
             this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.button2.Location = new System.Drawing.Point(466, 607);
+            this.button2.Location = new System.Drawing.Point(521, 515);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(114, 35);
             this.button2.TabIndex = 2;
@@ -247,7 +247,7 @@
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.button1.Location = new System.Drawing.Point(323, 607);
+            this.button1.Location = new System.Drawing.Point(379, 515);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(114, 35);
             this.button1.TabIndex = 1;
@@ -285,8 +285,8 @@
             // 
             // Column1
             // 
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            this.Column1.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            this.Column1.DefaultCellStyle = dataGridViewCellStyle2;
             this.Column1.HeaderText = "序号";
             this.Column1.Name = "Column1";
             this.Column1.ReadOnly = true;
